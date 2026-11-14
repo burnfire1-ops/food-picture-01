@@ -1,14 +1,24 @@
-# food-picture-01 — Steaming Tonkotsu Ramen
+# Tonkotsu Noodle Pull
 
-A single picture of a steaming bowl of rich tonkotsu ramen, shot to make you hungry at first glance.
+A bowl of tonkotsu ramen shot at the moment wooden chopsticks lift a tall,
+glossy tangle of noodles high above the bowl, with egg yolk dripping down
+onto the lifted strands.
 
-## What the picture shows
+Why it fits the judging criteria:
 
-- **Appetite:** chopsticks lift a tangle of glossy noodles high above the bowl while steam curls off the broth. The judge weighs appetite first, so the steam and the noodle lift are the point of the shot.
-- **Texture:** slick noodles, a jammy halved egg yolk, charred chashu edges, and glistening broth you can almost feel.
-- **Styling and light:** warm, cosy restaurant light with a shallow depth of field that keeps the bowl front and centre.
-- **Craft:** the noodle lift, the egg, the nori and the spring onions are arranged so every element earns its place.
-- **Reads small:** one bold bowl, one clear lift, high contrast, so the shot still works at 300 pixels wide.
+- Appetite: the high noodle lift and dripping yolk make the dish look
+  irresistible before anything else registers.
+- Texture: glossy noodles, creamy broth, jammy egg yolk, and tender chashu
+  each read as distinct, touchable surfaces.
+- Styling and light: warm golden restaurant light, a bold red chili-oil
+  spiral on the broth, nori and spring onions arranged around the bowl.
+- Craft: steam is a light accent only, and the shallow depth of field keeps
+  the noodles sharp while the background falls away.
+- Reads small: one unmistakable hero shape, the tall noodle pull, stays
+  legible even at 300 pixels.
+
+The judge weighs appetite first, so the tall noodle pull with the dripping
+yolk is the point of the shot.
 
 ## How to run
 
@@ -16,8 +26,8 @@ A single picture of a steaming bowl of rich tonkotsu ramen, shot to make you hun
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-This copies `entry.png` into the output directory as `entry.png`. No network, no randomness, no dependencies beyond Node 22's standard library.
+This copies `entry.png` into the output directory as `entry.png`.
 
 ## License
 
-MIT. See `LICENSE`.
+MIT
