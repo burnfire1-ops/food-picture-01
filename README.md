@@ -1,24 +1,14 @@
-# Tonkotsu Noodle Pull
+# Tonkotsu Ramen — Noodle Pull High
 
-A bowl of tonkotsu ramen shot at the moment wooden chopsticks lift a tall,
-glossy tangle of noodles high above the bowl, with egg yolk dripping down
-onto the lifted strands.
+A bowl of tonkotsu ramen in a dark speckled bowl, wooden chopsticks lifting a tall, glossy tangle of noodles high above the broth, with prominent steam rising, charred chashu pork on the left, a halved soft egg front-center with jammy yolk dripping, nori, spring onions, and a bold red chili-oil spiral on the creamy broth, served on a dark wooden table in warm lantern light.
 
-Why it fits the judging criteria:
+Why it fits the judge's criteria:
 
-- Appetite: the high noodle lift and dripping yolk make the dish look
-  irresistible before anything else registers.
-- Texture: glossy noodles, creamy broth, jammy egg yolk, and tender chashu
-  each read as distinct, touchable surfaces.
-- Styling and light: warm golden restaurant light, a bold red chili-oil
-  spiral on the broth, nori and spring onions arranged around the bowl.
-- Craft: steam is a light accent only, and the shallow depth of field keeps
-  the noodles sharp while the background falls away.
-- Reads small: one unmistakable hero shape, the tall noodle pull, stays
-  legible even at 300 pixels.
-
-The judge weighs appetite first, so the tall noodle pull with the dripping
-yolk is the point of the shot.
+- Appetite: the tall noodle lift and rising steam make the dish look hot, fresh, and ready to eat. The judge weighs appetite first, so the steam and the noodle lift are the point of the shot.
+- Texture: glossy noodles, jammy dripping yolk, and charred chashu give the eye plenty to linger on.
+- Styling and light: the dark bowl and wooden table set off the creamy broth, while the warm lantern glow keeps the scene cozy.
+- Craft: every element is placed deliberately — egg front-center, chashu to the side, chili-oil spiral on top.
+- Reads small: the tall noodle pull is one big vertical shape, so the shot stays legible at 300 pixels.
 
 ## How to run
 
